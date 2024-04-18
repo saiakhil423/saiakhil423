@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Akhil</h1>
 <h3 align="center">"Tech enthusiast | Constantly learning and coding for the future."</h3>
-<img align="right" alt="coding_img" width="400" src="https://images.app.goo.gl/7quXKr4otjgcdTR49">
+<img align="right" alt="coding_img" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0HO-Fc-7u9Sz4BTxLJdrTl&ust=1713552067449000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC-sYS1zIUDFQAAAAAdAAAAABAa">
 
 - 🔭 I’m currently working on **GenAi**
 
