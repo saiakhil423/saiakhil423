@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Akhil</h1>
 <h3 align="center">"Tech enthusiast | Constantly learning and coding for the future."</h3>
 
-<p align="right"> <img src="https://imgur.com/a/ymXS41C" alt="codingimg" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiakhil423&label=Profile%20views&color=0e75b6&style=flat" alt="saiakhil423" /> </p>
 
 - 🔭 I’m currently working on **GenAi**
