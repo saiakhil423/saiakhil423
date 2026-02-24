@@ -1,38 +1,48 @@
 <h1 align="center">Hi 👋, I'm Sai Akhil</h1>
-<h3 align="center">Tech enthusiast | React Native Developer | Passionate about building performant cross-platform apps</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiakhil423&label=Profile%20views&color=0e75b6&style=flat" alt="saiakhil423" /> </p>
-
-- 🔭 Currently building cross-platform mobile applications using **React Native (Expo)**  
-- 🌱 Learning **LLMs, Generative AI**, and exploring modern backend tools  
-- 💬 Ask me about **React Native, Node.js, Python, SQL, ML**  
-- 📫 Reach me at **saiakhil9977@gmail.com**  
+<h3 align="center">Full Stack Developer | Python Backend Engineer | Exploring AI & Intelligent Systems</h3>
 
 ---
 
-### 🛠️ Mobile Development Stack:
-- **Languages & Frameworks:** React Native, JavaScript, TypeScript, Node.js  
-- **State Management:** Context API, Redux Toolkit  
-- **Networking:** Axios, Fetch API, REST API Integration  
-- **Storage:** AsyncStorage, SQLite (React Native)  
-- **Navigation & UI:** React Navigation, Styled Components, Flexbox layouts  
+- 🔭 Currently building scalable backend systems using **Python, FastAPI, and Django**
+- 🌱 Exploring **Machine Learning, LLMs, and Generative AI applications**
+- 💬 Ask me about **Python, Backend Development, REST APIs, SQL, FastAPI, Django**
+- 📫 Reach me at **saiakhil9977@gmail.com**
+
+---
+
+### 🛠️ Tech Stack:
+
+#### 💻 Backend & Full Stack
+- **Languages:** Python, JavaScript, SQL, Java  
+- **Backend Frameworks:** FastAPI, Django, Node.js  
+- **Frontend:** React.js, React Native  
+- **API Development:** REST APIs, JWT Authentication  
+- **Databases:** MySQL, MongoDB  
 - **Version Control:** Git, GitHub  
-- **Testing Tools:** Postman, manual API testing  
-- **Tools:** VS Code, Expo CLI, Firebase (basics)
+- **Tools:** Postman, VS Code  
+
+#### 🤖 AI / ML
+- Machine Learning (Scikit-learn)
+- Data Processing (Pandas, NumPy)
+- NLP Basics
+- Model Evaluation & Feature Engineering
+- LLM-based Application Development (RAG Concepts)
 
 ---
 
-### 🚀 Recent Projects:
-- **Cross-platform apps** with authentication, dynamic UI rendering, and efficient API integrations  
-- Focus on **component modularization**, **code reusability**, and **performance optimization**  
-- Experience collaborating with UI/UX teams and integrating backend APIs (Node.js + SQL)
+### 🚀 Projects Focus:
+
+- 🔹 Backend-driven applications with structured data processing  
+- 🔹 Full Stack systems with authentication & API integration  
+- 🔹 ETL-style workflows and database-driven applications  
+- 🔹 AI-powered solutions combining ML + backend systems  
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/akhil-sai-9262b921b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-sai-9262b921b" height="30" width="40" />
+  <a href="https://linkedin.com/in/sai-akhil-thodupunuri-9262b921b" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
 
